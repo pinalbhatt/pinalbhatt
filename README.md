@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/pinalbhatt/pinalbhatt/main/assets/fomthedeskof.png" style="float:right" />
+<img src="https://raw.githubusercontent.com/pinalbhatt/pinalbhatt/main/assets/fomthedeskof.png" align="right"/>
 <h2>PBDesk.com | Learning endeavor forever... </h2>
 <br/><br/>
 <h3>
