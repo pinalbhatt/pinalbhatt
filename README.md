@@ -1,7 +1,14 @@
-# PBDesk.com
-## Learning endeavor forever... 
-### Hi there 👋
-Hi Everyone! I’m Pinal Bhatt, I’m Software Engineer and I love writing code!
+<img src="https://raw.githubusercontent.com/pinalbhatt/pinalbhatt/main/assets/fomthedeskof.png" style="float:right" />
+<h2>PBDesk.com | Learning endeavor forever... </h2>
+<br/><br/>
+<h3>
+Hi Everyone! 👋
+I’m <b><i>Pinal Bhatt</i></b>, I’m Software Engineer and I love writing code!
+</h3>
+
+<a href="https://www.linkedin.com/in/pinalbhatt"><img src="https://raw.githubusercontent.com/pinalbhatt/pinalbhatt/main/assets/linkedin.png" width="40" /></a>
+<a href="https://github.com/pinalbhatt"><img src="https://raw.githubusercontent.com/pinalbhatt/pinalbhatt/main/assets/github-logo.png" width="40" /></a>
+<a href="https://twitter.com/pbdesk"><img src="https://raw.githubusercontent.com/pinalbhatt/pinalbhatt/main/assets/twitter.png" width="40" /></a>
 
 <!--
 **pinalbhatt/pinalbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
