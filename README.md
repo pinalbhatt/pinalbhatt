@@ -6,9 +6,9 @@ Hi Everyone! 👋
 I’m <b><i>Pinal Bhatt</i></b>, I’m Software Engineer and I love writing code!
 </h3>
 
-<a href="https://www.linkedin.com/in/pinalbhatt"><img src="https://raw.githubusercontent.com/pinalbhatt/pinalbhatt/main/assets/linkedin.png" width="40" /></a>
-<a href="https://github.com/pinalbhatt"><img src="https://raw.githubusercontent.com/pinalbhatt/pinalbhatt/main/assets/github-logo.png" width="40" /></a>
-<a href="https://twitter.com/pbdesk"><img src="https://raw.githubusercontent.com/pinalbhatt/pinalbhatt/main/assets/twitter.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/pinalbhatt"><img src="https://raw.githubusercontent.com/pinalbhatt/pinalbhatt/main/assets/linkedin.png" width="40"align="right" /></a>
+<a href="https://github.com/pinalbhatt"><img src="https://raw.githubusercontent.com/pinalbhatt/pinalbhatt/main/assets/github-logo.png" width="40" align="right" /></a>
+<a href="https://twitter.com/pbdesk"><img src="https://raw.githubusercontent.com/pinalbhatt/pinalbhatt/main/assets/twitter.png" width="40" align="right" /></a>
 
 <!--
 **pinalbhatt/pinalbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
