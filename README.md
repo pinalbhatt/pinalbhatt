@@ -25,7 +25,7 @@ I’m <b><i>Pinal Bhatt</i></b>,<br/> I’m Software Engineer and I enjoy writin
 </tr>
 </table>
 
- <table style="border: 1px solid blue;   border-collapse: collapse;">   <tr><td>First column</td><td>Second column</td><td>Third column</td></tr>   <tr><td>First column</td><td>Second column</td><td>Third column</td></tr>   <tr><td>First column</td><td>Second column</td><td>Third column</td></tr> </table> 
+ <table style="border: 0px solid blue;   border-collapse: collapse;">   <tr><td>First column</td><td>Second column</td><td>Third column</td></tr>   <tr><td>First column</td><td>Second column</td><td>Third column</td></tr>   <tr><td>First column</td><td>Second column</td><td>Third column</td></tr> </table> 
 
 
 <!--
