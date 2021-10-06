@@ -25,6 +25,8 @@ I’m <b><i>Pinal Bhatt</i></b>,<br/> I’m Software Engineer and I enjoy writin
 </tr>
 </table>
 
+<style> table.example-table, .example-table td {   border: 1px solid green;   border-collapse: collapse; } </style> <table class="example-table">   <tr><td>First column</td><td>Second column</td><td>Third column</td></tr>   <tr><td>First column</td><td>Second column</td><td>Third column</td></tr>   <tr><td>First column</td><td>Second column</td><td>Third column</td></tr> </table> 
+
 
 <!--
 **pinalbhatt/pinalbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
