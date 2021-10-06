@@ -10,7 +10,6 @@ I’m <b><i>Pinal Bhatt</i></b>,<br/> I’m Software Engineer and I enjoy writin
 </h3>
 <br/><br/>
 <p>20+ years of experience in the Information Technology field with 15+ years of Software Development experience in the capacity of Developer, Designer, Tech Lead, Release Lead, and Engineering Manager. I aim to seek a challenging position in Software Development Industry using my vast experience in technologies like NodeJS, Microservices, Javascript, Kafka, C#, .Net, ASP.NET, MVC, Web API. Of particular interest would be those, which can take advantage of my skills in Design, Development, Testing, Implementation, and Support. And yes, I love coding & I am always ready and eager to learn new things.</p>
-<br/>
 <h3>My Tech Skills</h3>
 <table border="0">
 <tr>
@@ -22,12 +21,32 @@ I’m <b><i>Pinal Bhatt</i></b>,<br/> I’m Software Engineer and I enjoy writin
     <ul>
       <li>NodeJS</li>
       <li>JavaScript</li>
+      <li>TypeScript</li>
+      <li>ExpressJS</li>
+      <li>Kafka</li>
+      <li>KSQLDB</li>
+      <li>MondoDB</li>
+      <li>PostgreSQL</li>
+      <li>Docker</li>
+      <li>Github Actions</li>
+      <li>ElectronJS</li>
+      <li>Serverless Functions</li>
+      <li>AWS/GCP</li>
     </ul>
   </td>
   <td>
       <ul>
       <li>.Net</li>
       <li>C#</li>
+      <li>VB.Net</li>
+      <li>ASP.Net</li>
+      <li>MVC</li>
+      <li>HTML/CSS</li>
+      <li>Redis</li>
+      <li>SQL/Oracle/MS-SQL</li>
+      <li>VueJS/Nuxt</li>
+      <li>Angular/AngularJS</li>
+      <li>ReactJS/NextJS</li>
     </ul>
   </td>
 </tr>
