@@ -12,6 +12,10 @@ I’m <b><i>Pinal Bhatt</i></b>,<br/> I’m Software Engineer and I enjoy writin
 <p>20+ years of experience in the Information Technology field with 15+ years of Software Development experience in the capacity of Developer, Designer, Tech Lead, Release Lead, and Engineering Manager. I aim to seek a challenging position in Software Development Industry using my vast experience in technologies like NodeJS, Microservices, Javascript, Kafka, C#, .Net, ASP.NET, MVC, Web API. Of particular interest would be those, which can take advantage of my skills in Design, Development, Testing, Implementation, and Support. And yes, I love coding & I am always ready and eager to learn new things.</p>
 <br/>
 <h3>My Tech Skills</h3>
+| Primary | Others |
+| --- | --- |
+| NodeJS | .Net |
+| Javascript | C# |
 <table border="0">
 <tr>
   <td width="10%">&nbsp;</td>
