@@ -25,7 +25,7 @@ I’m <b><i>Pinal Bhatt</i></b>,<br/> I’m Software Engineer and I enjoy writin
 </tr>
 </table>
 
-<style> table.example-table, .example-table td {   border: 1px solid green;   border-collapse: collapse; } </style> <table class="example-table">   <tr><td>First column</td><td>Second column</td><td>Third column</td></tr>   <tr><td>First column</td><td>Second column</td><td>Third column</td></tr>   <tr><td>First column</td><td>Second column</td><td>Third column</td></tr> </table> 
+ <table style="border: 1px solid blue;   border-collapse: collapse;">   <tr><td>First column</td><td>Second column</td><td>Third column</td></tr>   <tr><td>First column</td><td>Second column</td><td>Third column</td></tr>   <tr><td>First column</td><td>Second column</td><td>Third column</td></tr> </table> 
 
 
 <!--
